@@ -23,58 +23,45 @@
 ## 📸 Screenshots
 
 ### Login — Role Selection
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Login Page Screenshot]
-```
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/9bf0bdf2-e04b-4b5d-a408-f42fb3d0723d" />
+
 
 ---
 
 ### Command Dashboard — Live Overview
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Command Dashboard Screenshot]
-```
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/00282f01-5595-4894-a242-b1ca9ee99447" />
+
 
 ---
 
 ### Crowd Heatmap — Zone Density View
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Crowd Heatmap Screenshot]
-```
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/812cfde1-58a7-4ddc-b8a0-aa7fde11b976" />
+
 
 ---
 
 ### Incident Management — Agentic Triage Flow
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Incident Triage Screenshot — show the Hindi input + AI classification output]
-```
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/e1a902c7-895b-4fe5-a7f4-bbc0f9929e3b" />
+
 
 ---
 
 ### AI Sujhav — NetraBot Suggestion Feed
-<!-- PASTE SCREENSHOT HERE -->
-```
-[AI Sujhav Panel Screenshot]
-```
+<img width="432" height="666" alt="image" src="https://github.com/user-attachments/assets/a16bce4a-d266-4807-88d9-8a7e23e72a86" />
+
 
 ---
 
 ### Transport & Surge Prediction
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Transport Dashboard Screenshot]
-```
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/ce63191e-afbb-4b62-83a8-905573148fc9" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/e72f1240-9a01-47a0-97df-769a87317c09" />
 
 ---
 
 ### Health & Outbreak Watch
-<!-- PASTE SCREENSHOT HERE -->
-```
-[Health Dashboard Screenshot]
-```
+<img width="1915" height="966" alt="image" src="https://github.com/user-attachments/assets/f6daaaca-823d-45ae-97ba-6e9182431bea" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/c94a39ae-20ce-4b15-93df-788afc5c42ce" />
+
 
 ---
 
