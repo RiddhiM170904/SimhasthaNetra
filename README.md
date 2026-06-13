@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://simhastha-netra.vercel.app/logo.png" alt="SimhasthaNetra Logo" width="120" />
+<img width="680" height="395" alt="image" src="https://github.com/user-attachments/assets/67075f49-12ab-4783-b24a-4131524eca3b" />
+
 
 # 🪔 SimhasthaNetra
 ### *Har Pal Ki Nazar*
